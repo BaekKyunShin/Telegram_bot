@@ -1,0 +1,60 @@
+postNumber : 75
+title : 2017년도 국가과학기술지식정보서비스(NTIS) 사업 위탁연구과제 공모
+date : 2017-08-31
+contentURL : https://www.kisti.re.kr/notifications/post/research-task/3773;jsessionid=ZK2pXmU5QYFyyOpr0jRbsUMRE0BSZefVAzEo3S1FjZCSttehMHq3xtEpt3lQXsfE.al211_servlet_engine23
+
+
+postNumber : 74
+title : 2017년도 빅데이터 처리 고도화 핵심 기술개발 사업 총괄 및 고성능 컴퓨팅 기술을 활용한...
+date : 2017-07-19
+contentURL : https://www.kisti.re.kr/notifications/post/research-task/3729;jsessionid=ZK2pXmU5QYFyyOpr0jRbsUMRE0BSZefVAzEo3S1FjZCSttehMHq3xtEpt3lQXsfE.al211_servlet_engine23
+
+
+postNumber : 73
+title : 2017년도 기초연구 실험데이터 글로벌 허브구축 사업 위탁연구과제 3차 공모
+date : 2017-07-10
+contentURL : https://www.kisti.re.kr/notifications/post/research-task/3725;jsessionid=ZK2pXmU5QYFyyOpr0jRbsUMRE0BSZefVAzEo3S1FjZCSttehMHq3xtEpt3lQXsfE.al211_servlet_engine23
+
+
+postNumber : 72
+title : 2017년도 기초연구 실험데이터 글로벌 허브구축 사업 위탁연구과제 2차 공모
+date : 2017-06-15
+contentURL : https://www.kisti.re.kr/notifications/post/research-task/3704;jsessionid=ZK2pXmU5QYFyyOpr0jRbsUMRE0BSZefVAzEo3S1FjZCSttehMHq3xtEpt3lQXsfE.al211_servlet_engine23
+
+
+postNumber : 71
+title : 고경력과학기술인 활용지원사업 위탁연구과제 공모
+date : 2017-05-25
+contentURL : https://www.kisti.re.kr/notifications/post/research-task/3575;jsessionid=ZK2pXmU5QYFyyOpr0jRbsUMRE0BSZefVAzEo3S1FjZCSttehMHq3xtEpt3lQXsfE.al211_servlet_engine23
+
+
+postNumber : 70
+title : 2017년도 기초연구 실험데이터 글로벌 허브구축 사업 위탁연구과제 공모
+date : 2017-05-18
+contentURL : https://www.kisti.re.kr/notifications/post/research-task/3567;jsessionid=ZK2pXmU5QYFyyOpr0jRbsUMRE0BSZefVAzEo3S1FjZCSttehMHq3xtEpt3lQXsfE.al211_servlet_engine23
+
+
+postNumber : 69
+title : 2017년도 주요사업 위탁연구과제 공모
+date : 2017-05-16
+contentURL : https://www.kisti.re.kr/notifications/post/research-task/3564;jsessionid=ZK2pXmU5QYFyyOpr0jRbsUMRE0BSZefVAzEo3S1FjZCSttehMHq3xtEpt3lQXsfE.al211_servlet_engine23
+
+
+postNumber : 68
+title : 2017년도 주요사업 위탁연구과제 공모
+date : 2017-04-27
+contentURL : https://www.kisti.re.kr/notifications/post/research-task/3544;jsessionid=ZK2pXmU5QYFyyOpr0jRbsUMRE0BSZefVAzEo3S1FjZCSttehMHq3xtEpt3lQXsfE.al211_servlet_engine23
+
+
+postNumber : 67
+title : 2017년도 주요사업 위탁연구과제 3차 공모
+date : 2017-03-03
+contentURL : https://www.kisti.re.kr/notifications/post/research-task/3502;jsessionid=ZK2pXmU5QYFyyOpr0jRbsUMRE0BSZefVAzEo3S1FjZCSttehMHq3xtEpt3lQXsfE.al211_servlet_engine23
+
+
+postNumber : 66
+title : 2017년도 외부 개방형 창의과제 공모
+date : 2017-02-28
+contentURL : https://www.kisti.re.kr/notifications/post/research-task/3500;jsessionid=ZK2pXmU5QYFyyOpr0jRbsUMRE0BSZefVAzEo3S1FjZCSttehMHq3xtEpt3lQXsfE.al211_servlet_engine23
+
+

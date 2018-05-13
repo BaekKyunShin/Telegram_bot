@@ -1,0 +1,60 @@
+postNumber : 587
+title : 「4차 산업혁명시대를 대비하는 SW영재교육 혁신방안 연구」 공모
+date : 2018.03.23
+contentURL : https://www.kofac.re.kr/?page_id=1673&uid=9613&mod=document
+
+
+postNumber : 586
+title : 『2018 메이커 스페이스 구축ㆍ운영사업』주관기관 모집공고
+date : 2018.03.22
+contentURL : https://www.kofac.re.kr/?page_id=1673&uid=9610&mod=document
+
+
+postNumber : 585
+title : [재공고] 2018년 창의융합형 과학실 모델학교 지원연구단 공모
+date : 2018.03.21
+contentURL : https://www.kofac.re.kr/?page_id=1673&uid=9606&mod=document
+
+
+postNumber : 584
+title : [재공고] 2018년 사다리프로젝트 운영 지원연구단 과제 재공모
+date : 2018.03.21
+contentURL : https://www.kofac.re.kr/?page_id=1673&uid=9604&mod=document
+
+
+postNumber : 583
+title : [재공고] 2018년 과학중점학교 운영 지원연구단 과제 재공고
+date : 2018.03.21
+contentURL : https://www.kofac.re.kr/?page_id=1673&uid=9602&mod=document
+
+
+postNumber : 582
+title : 2018년 STEAM 교육 지원연구단 공모
+date : 2018.03.20
+contentURL : https://www.kofac.re.kr/?page_id=1673&uid=9569&mod=document
+
+
+postNumber : 581
+title : SW교육 선도학교 발전방향 연구 및 포럼 운영 사업 공모
+date : 2018.03.20
+contentURL : https://www.kofac.re.kr/?page_id=1673&uid=9567&mod=document
+
+
+postNumber : 580
+title : 2018년 창의교육 실천 교사연구회 모집 공고
+date : 2018.03.16
+contentURL : https://www.kofac.re.kr/?page_id=1673&uid=9556&mod=document
+
+
+postNumber : 579
+title : 융합인재교육(STEAM) 활성화 위한 평가 방안 연구 과제 공모
+date : 2018.03.15
+contentURL : https://www.kofac.re.kr/?page_id=1673&uid=9554&mod=document
+
+
+postNumber : 578
+title : [재공고]2018년 융합인재교육(STEAM) 프로그램 개발 과제 공모(2개 분야)
+date : 2018.03.14
+contentURL : https://www.kofac.re.kr/?page_id=1673&uid=9544&mod=document
+
+

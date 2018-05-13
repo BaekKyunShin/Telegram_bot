@@ -1,0 +1,120 @@
+postNumber : 678
+title : 2018년도 연구개발특구진흥재단 홍보기념물품 구매
+date : 2018.03.16
+contentURL : https://www.innopolis.or.kr//sub0403/articles/view/tableid/m_bid/page/1/id/5535
+
+
+postNumber : 677
+title : 수요자 중심의 기술찾기 플랫폼 운영 및 컨설팅 용역 공고
+date : 2018.03.14
+contentURL : https://www.innopolis.or.kr//sub0403/articles/view/tableid/m_bid/page/1/id/5531
+
+
+postNumber : 676
+title : 연구개발특구진흥재단 역량강화 교육훈련 위탁운영 용역
+date : 2018.03.07
+contentURL : https://www.innopolis.or.kr//sub0403/articles/view/tableid/m_bid/page/1/id/5529
+
+
+postNumber : 675
+title : 대덕테크비즈센터 장애인편의시설 개선공사
+date : 2018.02.19
+contentURL : https://www.innopolis.or.kr//sub0403/articles/view/tableid/m_bid/page/1/id/5513
+
+
+postNumber : 674
+title : 2018년 대구연구개발특구 의료R&D;지구 입주기업 통근버스 운행 용역
+date : 2018.02.07
+contentURL : https://www.innopolis.or.kr//sub0403/articles/view/tableid/m_bid/page/1/id/5507
+
+
+postNumber : 673
+title : 2018년 대구연구개발특구 의료R&D;지구 입주기업 통근버스 운행 용역 입찰공고
+date : 2018.02.07
+contentURL : https://www.innopolis.or.kr//sub0403/articles/view/tableid/m_bid/page/1/id/5508
+
+
+postNumber : 672
+title : 과학벨트 거점지구(신동·둔곡) 토지용도 변경 타당성 검토 연구 용역
+date : 2017.12.13
+contentURL : https://www.innopolis.or.kr//sub0403/articles/view/tableid/m_bid/page/1/id/5480
+
+
+postNumber : 671
+title : 과학벨트 거점지구 기업지원 및 정주환경 제공을 위한 원스톱서비스 수립 연구용역
+date : 2017.12.12
+contentURL : https://www.innopolis.or.kr//sub0403/articles/view/tableid/m_bid/page/1/id/5479
+
+
+postNumber : 670
+title : 차세대 사업관리시스템(PMS) 사업 인프라 구축 용역
+date : 2017.11.28
+contentURL : https://www.innopolis.or.kr//sub0403/articles/view/tableid/m_bid/page/1/id/5467
+
+
+postNumber : 669
+title : 과학벨트 거점지구(신동,둔곡) 토지용도 변경 타당성 검토 연구 용역
+date : 2017.11.22
+contentURL : https://www.innopolis.or.kr//sub0403/articles/view/tableid/m_bid/page/1/id/5457
+
+
+postNumber : 668
+title : 차세대 사업관리시스템(PMS) 사업 인프라 구축 용역
+date : 2017.11.17
+contentURL : https://www.innopolis.or.kr//sub0403/articles/view/tableid/m_bid/page/1/id/5456
+
+
+postNumber : 667
+title : 광주이노비즈센터 임대공간 확충 관련 컨설팅(리모델링 설계)용역 공고
+date : 2017.11.16
+contentURL : https://www.innopolis.or.kr//sub0403/articles/view/tableid/m_bid/page/1/id/5455
+
+
+postNumber : 666
+title : 2018년 연구개발특구 신년인사회 용역
+date : 2017.11.15
+contentURL : https://www.innopolis.or.kr//sub0403/articles/view/tableid/m_bid/page/1/id/5451
+
+
+postNumber : 665
+title : 대덕연구개발특구 3단계 개발계획 수립 사업타당성 검토 연구용역
+date : 2017.11.09
+contentURL : https://www.innopolis.or.kr//sub0403/articles/view/tableid/m_bid/page/1/id/5444
+
+
+postNumber : 664
+title : 과학벨트 거점지구 기업지원 및 정주환경 제공을 위한 원스톱서비스 수립 연구용역
+date : 2017.11.09
+contentURL : https://www.innopolis.or.kr//sub0403/articles/view/tableid/m_bid/page/1/id/5443
+
+
+postNumber : 663
+title : 차세대 사업관리시스템 구축사업 감리용역
+date : 2017.10.27
+contentURL : https://www.innopolis.or.kr//sub0403/articles/view/tableid/m_bid/page/1/id/5434
+
+
+postNumber : 662
+title : 연구개발특구 조세감면제도 성과 분석 및 개선방안 도출 연구용역
+date : 2017.10.25
+contentURL : https://www.innopolis.or.kr//sub0403/articles/view/tableid/m_bid/page/1/id/5428
+
+
+postNumber : 661
+title : 대덕연구개발특구 3단계 개발계획 수립 사업타당성 검토 연구용역
+date : 2017.10.23
+contentURL : https://www.innopolis.or.kr//sub0403/articles/view/tableid/m_bid/page/1/id/5425
+
+
+postNumber : 660
+title : 과학벨트 거점지구 기업지원 및 정주환경 제공을 위한 원스톱서비스 수립 연구용역
+date : 2017.10.18
+contentURL : https://www.innopolis.or.kr//sub0403/articles/view/tableid/m_bid/page/1/id/5419
+
+
+postNumber : 659
+title : 과학-비즈니스 융합전문가(PSM) 양성사업 성과분석 및 개선방안 마련을 위한 연구용역공고
+date : 2017.10.16
+contentURL : https://www.innopolis.or.kr//sub0403/articles/view/tableid/m_bid/page/1/id/5416
+
+

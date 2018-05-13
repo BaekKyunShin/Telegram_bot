@@ -1,0 +1,60 @@
+postNumber : 697
+title : [2차 정정공고]2018 대한민국과학창의축전 행사운영 대행 용역
+date : 2018.03.23
+contentURL : https://www.kofac.re.kr/?page_id=1674&uid=9615&mod=document
+
+
+postNumber : 696
+title : [정정공고]2018 대한민국과학창의축전 행사운영 대행 용역
+date : 2018.03.22
+contentURL : https://www.kofac.re.kr/?page_id=1674&uid=9612&mod=document
+
+
+postNumber : 695
+title : 2018 대한민국과학창의축전 행사운영 대행 용역
+date : 2018.03.20
+contentURL : https://www.kofac.re.kr/?page_id=1674&uid=9573&mod=document
+
+
+postNumber : 694
+title : 재단 전산시스템 통합유지관리 용역
+date : 2018.03.20
+contentURL : https://www.kofac.re.kr/?page_id=1674&uid=9572&mod=document
+
+
+postNumber : 693
+title : 2018년 성인 대상 정기 과학 공연 운영 대행 용역
+date : 2018.03.19
+contentURL : https://www.kofac.re.kr/?page_id=1674&uid=9566&mod=document
+
+
+postNumber : 692
+title : [정정공고]2018 과학창의 연례컨퍼런스 기획운영 대행 용역
+date : 2018.03.19
+contentURL : https://www.kofac.re.kr/?page_id=1674&uid=9565&mod=document
+
+
+postNumber : 691
+title : 2018년 원격교육연수원 장비 구매 및 구축 용역
+date : 2018.03.19
+contentURL : https://www.kofac.re.kr/?page_id=1674&uid=9564&mod=document
+
+
+postNumber : 690
+title : 2018년 자유학기제 행사 통합 대행 용역
+date : 2018.03.19
+contentURL : https://www.kofac.re.kr/?page_id=1674&uid=9563&mod=document
+
+
+postNumber : 689
+title : 2018 과학창의 연례컨퍼런스 기획운영 대행 용역
+date : 2018.03.19
+contentURL : https://www.kofac.re.kr/?page_id=1674&uid=9562&mod=document
+
+
+postNumber : 688
+title : [정정공고]2018년 한국과학창의재단 직원채용 대행 용역
+date : 2018.03.16
+contentURL : https://www.kofac.re.kr/?page_id=1674&uid=9561&mod=document
+
+

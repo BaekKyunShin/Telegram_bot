@@ -1,0 +1,60 @@
+postNumber : 397
+title : (온비드공고) 정보통신기술진흥센터 불용자산(사무가구) 공개 매각
+date : 2018-03-23
+contentURL : https://www.iitp.kr/kr/1/notice/bid/view.it?ArticleIdx=2696&count=true&page=1
+
+
+postNumber : 396
+title : ICT 기술예측조사 기초자료 수집ㆍ분석 용역
+date : 2018-03-21
+contentURL : https://www.iitp.kr/kr/1/notice/bid/view.it?ArticleIdx=2693&count=true&page=1
+
+
+postNumber : 395
+title : IITP Tech n Future Insight Spring Concert 행사용역
+date : 2018-03-21
+contentURL : https://www.iitp.kr/kr/1/notice/bid/view.it?ArticleIdx=2692&count=true&page=1
+
+
+postNumber : 394
+title : 평가위원 Pool 관리 최적화 방안 용역
+date : 2018-03-21
+contentURL : https://www.iitp.kr/kr/1/notice/bid/view.it?ArticleIdx=2691&count=true&page=1
+
+
+postNumber : 393
+title : (사전규격공개) 2018년 중소ICT장비 현장방문 세미나 및 전시회 용역
+date : 2018-03-21
+contentURL : https://www.iitp.kr/kr/1/notice/bid/view.it?ArticleIdx=2690&count=true&page=1
+
+
+postNumber : 392
+title : (사전규격공개) IITP Tech n Future Insight Spring Concert 행사용역
+date : 2018-03-14
+contentURL : https://www.iitp.kr/kr/1/notice/bid/view.it?ArticleIdx=2667&count=true&page=1
+
+
+postNumber : 391
+title : (사전규격공개) 평가위원 Pool 관리 최적화 용역
+date : 2018-03-14
+contentURL : https://www.iitp.kr/kr/1/notice/bid/view.it?ArticleIdx=2663&count=true&page=1
+
+
+postNumber : 390
+title : (조달청공고) 2018 바우처 매칭 기술전시회 기획·운영용역
+date : 2018-03-14
+contentURL : https://www.iitp.kr/kr/1/notice/bid/view.it?ArticleIdx=2661&count=true&page=1
+
+
+postNumber : 389
+title : (조달청공고) 2018년 IITP 조경관리용역
+date : 2018-03-14
+contentURL : https://www.iitp.kr/kr/1/notice/bid/view.it?ArticleIdx=2660&count=true&page=1
+
+
+postNumber : 388
+title : (사전규격공개) ICT 기술예측조사 기초자료 수집분석용역
+date : 2018-03-12
+contentURL : https://www.iitp.kr/kr/1/notice/bid/view.it?ArticleIdx=2658&count=true&page=1
+
+

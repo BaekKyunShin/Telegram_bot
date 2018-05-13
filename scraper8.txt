@@ -1,0 +1,60 @@
+postNumber : 20
+title : 2kW급 중대형 홀추력기 기본 설계 및 자기장 최적화 기법 개발
+date : 2018-03-23
+contentURL : https://kpms.kari.re.kr/project/announcement.do;jsessionid=FF0E210A5AFC8C094E71C6172D691EEE.tomcat204?mode=view&seq=179
+
+
+postNumber : 19
+title : 차세대 정지궤도위성 전장품 충격하중시험을 위한 장치 및 운용 sw 개발
+date : 2018-03-23
+contentURL : https://kpms.kari.re.kr/project/announcement.do;jsessionid=FF0E210A5AFC8C094E71C6172D691EEE.tomcat204?mode=view&seq=178
+
+
+postNumber : 18
+title : 정지궤도복합위성 해양/환경탑재체 기하보정시스템 （INR） 출력 영상데이터 검증 및 해석 연구
+date : 2018-03-23
+contentURL : https://kpms.kari.re.kr/project/announcement.do;jsessionid=FF0E210A5AFC8C094E71C6172D691EEE.tomcat204?mode=view&seq=177
+
+
+postNumber : 17
+title : 차세대 정지궤도위성용 버스 입출력 전압 및 전류 리플 저감 기술 개발
+date : 2018-03-15
+contentURL : https://kpms.kari.re.kr/project/announcement.do;jsessionid=FF0E210A5AFC8C094E71C6172D691EEE.tomcat204?mode=view&seq=176
+
+
+postNumber : 16
+title : 차세대 정지궤도위성용 대용량 전력분배제어 기술 개발
+date : 2018-03-23
+contentURL : https://kpms.kari.re.kr/project/announcement.do;jsessionid=FF0E210A5AFC8C094E71C6172D691EEE.tomcat204?mode=view&seq=175
+
+
+postNumber : 15
+title : 500V 고전압 출력용 컨버터 모듈의 병렬운전 성능개선에 관한 연구
+date : 2018-03-15
+contentURL : https://kpms.kari.re.kr/project/announcement.do;jsessionid=FF0E210A5AFC8C094E71C6172D691EEE.tomcat204?mode=view&seq=174
+
+
+postNumber : 14
+title : 노화에 의한 배터리팩의 전압/SOC 불균형 보완을 위한 배터리팩 모델링 및 해석기법 구현
+date : 2018-03-23
+contentURL : https://kpms.kari.re.kr/project/announcement.do;jsessionid=FF0E210A5AFC8C094E71C6172D691EEE.tomcat204?mode=view&seq=173
+
+
+postNumber : 13
+title : 고속 위성자료 표준 변조기술 연구
+date : 2018-03-23
+contentURL : https://kpms.kari.re.kr/project/announcement.do;jsessionid=FF0E210A5AFC8C094E71C6172D691EEE.tomcat204?mode=view&seq=172
+
+
+postNumber : 12
+title : 미소진동 저감 마운트 개발 연구
+date : 2018-03-23
+contentURL : https://kpms.kari.re.kr/project/announcement.do;jsessionid=FF0E210A5AFC8C094E71C6172D691EEE.tomcat204?mode=view&seq=171
+
+
+postNumber : 11
+title : 무인비행장치 지능형 비행환경상황인식 및 충돌 회피 기술 연구
+date : 2018-03-16
+contentURL : https://kpms.kari.re.kr/project/announcement.do;jsessionid=FF0E210A5AFC8C094E71C6172D691EEE.tomcat204?mode=view&seq=170
+
+
